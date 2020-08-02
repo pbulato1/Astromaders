@@ -29,11 +29,11 @@ the enemies soon start moving quicker and also firing their own weapons more fre
 
 **Controls:**
 
-<-  - steer left
+<-  : steer left
 
-->  - steer right
+->  : steer right
 
-spacebar - fire
+spacebar : fire
 
 -----------------------------
 Petar Bulatovic
