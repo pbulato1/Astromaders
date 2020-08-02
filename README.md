@@ -30,7 +30,9 @@ the enemies soon start moving quicker and also firing their own weapons more fre
 **Controls:**
 
 <-  - steer left
+
 ->  - steer right
+
 spacebar - fire
 
 -----------------------------
