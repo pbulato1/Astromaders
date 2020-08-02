@@ -3,12 +3,13 @@ Game written in C#
 
 
 
-                                           Project completed during July 2020.
-                                                 Uploaded on August 2.
+                                                      Project completed during July 2020.
+                                                             Uploaded on August 2.
 
 
 
 **Intro:**
+
 Astromaders is an endless space invaders-type game. The user plays the role of a spaceship on a mission to save the planet from invading aliens/creatures.
 
 **Menu:**
@@ -28,9 +29,9 @@ the enemies soon start moving quicker and also firing their own weapons more fre
 
 **Controls:**
 
-<-      :   steer left
-->       :  steer right
-spacebar  : fire
+<-  - steer left
+->  - steer right
+spacebar - fire
 
 -----------------------------
 Petar Bulatovic
