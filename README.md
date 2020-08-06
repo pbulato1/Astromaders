@@ -17,7 +17,7 @@ Astromaders is an endless space invaders-type game. The user plays the role of a
 1. Play
 - Starts the game.
 2. Help
-- Pressing this option leads you to the screen explaining all of the game's rules and controls.
+- Pressing this option leads to the screen explaining all of the game's rules and controls.
 3. Exit
 - Quits the game.
 
