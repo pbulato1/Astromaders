@@ -26,6 +26,7 @@ Astromaders is an endless space invaders-type game. The user plays the role of a
 As mentioned above, the user controls a spaceship that can simply move and launch rockets, trying to demolish the never-ending wave of dangerous creatures. The game's difficulty increases progressively as 
 the enemies soon start moving quicker and also firing their own weapons more frequently. The game ends once the player gets shot or if the player collides with any of the enemies.
 
+![](Astromaders.gif)
 
 **Controls:**
 
