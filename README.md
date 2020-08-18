@@ -40,7 +40,7 @@ spacebar : fire
 Petar Bulatovic
 
 [Video Demo](https://www.youtube.com/watch?v=4tZdJWomkAQ&t=56s)</br>
-Link to the runnable(.exe) file: [Link](https://mega.nz/file/iP4VhBrQ#N7ue4LUa-dVJvg7wa1sjqrWxJZXJn4-dG4vXGixpT8U)
+Download link: [Link](https://mega.nz/file/iP4VhBrQ#N7ue4LUa-dVJvg7wa1sjqrWxJZXJn4-dG4vXGixpT8U)(Windows only)
 
 
 
