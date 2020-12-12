@@ -658,7 +658,7 @@ namespace Astromaders
                                 Canvas.SetTop(explosions[i], Canvas.GetTop(y));
                                 Canvas.SetLeft(explosions[i], Canvas.GetLeft(y) - 10);
                                 explosionTimers[i].Start();
-                                regenerateEnemies(i); //respwan the destroyed enemy                            
+                                regenerateEnemies(i); //respawn the destroyed enemy                            
                                 itemstoremove.Add(x);//destroy the rocket as soon as it hits an enemy
                             }
                         }
