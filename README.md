@@ -40,7 +40,7 @@ spacebar : fire
 Petar Bulatovic
 
 [Video Demo](https://youtu.be/4tZdJWomkAQ)</br>
-Download link: [Link](https://mega.nz/file/uWYknBrS#-VsJG6dVa0deKxh-WaXh54SrkjivRp6Nj4OFLejwIXk)(Windows only)
+
 
 
 
